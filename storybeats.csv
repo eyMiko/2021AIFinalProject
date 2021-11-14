@@ -1,50 +1,50 @@
 beats_name,output_string
 peep_monologue,"$peep1$ takes this moment to monologue, revealing how the three instruments ($instr1$, $instr2$, and $instr3$) will help them accomplish these goals."
-instr_becomes_haunted,"Soon, as a result of:the:becomes haunted!:"
-instr_starts_floating,"Suddenly, without warning, the:begins floating around.::"
-item_chooses_peep,"In a quiet room,:suddenly sees the radiating:in front of their face.:"
+instr_becomes_haunted,"Soon, as a result of $peep1$ the $instr1$ becomes haunted!"
+instr_starts_floating,"Suddenly, without warning, the $instr1$ begins floating around."
+item_chooses_peep,"In a quiet room, $peep1$ suddenly sees the radiating $instr1$ in front of their face."
 peep_accept_peep,"Overwhelmed with emotions, $peep1$ decides to accept the heartfelt confession from $peep2$."
 peep_addiction,"Feeling sad and depressed $peep1$ decides to meet their dealer, $peep2$, to get a small baggie of $instr1$."
-peep_assassinate_pee,:sneaks up on:and attaches a:to their gun.
+peep_assassinate_pee,$peep1$ sneaks up on $peep2$ and attaches a $instr1$ to their gun.
 peep_attacks_peep,"Without any warning, $peep1$ runs at $peep2$ with a $instr1$ and isn't slowing down!"
 peep_attends_festival,$peep1$ decides to go to the $instr1$ festival.
 peep_becomes_rich,"All of a sudden, $peep1$ sees $instr1$ and takes it. $peep1$ feels incredibly lucky about their newfound wealth!"
 peep_betray_peep,"Without warning, $peep1$ moves away from $peep2$ and grabs a $instr1$ before rushing at $peep2$!"
-peep_build_shelter,:is forcibly transported deep into the woods with only a:and they have to build a shelter if they want to survive the night.:
-peep_buys_pet,"Seeing a pet shop,:enters the store and purchases a:with some of their money.:"
-peep_calls_peep,"Wanting to make plans for tonight,:decides to grab their:and call his group of friends.:"
-peep_cleans,"Seeing the mess in the room,:grabs a:and starts cleaning.:"
+peep_build_shelter,$peep1$ is forcibly transported deep into the woods with only a $instr1$ and they have to build a shelter if they want to survive the night.
+peep_buys_pet,"Seeing a pet shop, $peep1$ enters the store and purchases a $instr1$ with some of their money."
+peep_calls_peep,"Wanting to make plans for tonight, $peep1$ decides to grab their $instr1$ and call his group of friends."
+peep_cleans,"Seeing the mess in the room, $peep1$ grabs a $instr1$ and starts cleaning."
 peep_confesses_peep,"Unable to contain their feelings for the other person, $peep1$ decides to spill out everything in their heart and confess to $peep2$."
-peep_confession,"After witnessing their plan fall apart,:confesses on all the wrongdoings that they have commited.::"
-peep_distract_peep,"Trying to run away,:sees:right behind them and decides to throw a:"
-peep_eats_food,"Feeling hungry,:grabs their:and begins eating it. Yummy!:"
-peep_explores,"Feeling famished,:reluctantly scouts around the area for some resources.::"
-peep_finds_beast,"While exploring and minding their own business,:suddenly sees a:right in front of them!:"
-peep_get_coffee,"Feeling tired,:decides to go to the nearby shop for a cup of::"
-peep_help_peep,"Seeing:hanging on for dear life,:throws a:and slowly pulls it up."
+peep_confession,"After witnessing their plan fall apart, $peep1$ confesses on all the wrongdoings that they have commited."
+peep_distract_peep,"Trying to run away, $peep1$ sees $peep2$ right behind them and decides to throw a $instr1$."
+peep_eats_food,"Feeling hungry, $peep1$ grabs their $instr1$ and begins eating it. Yummy!"
+peep_explores,"Feeling famished, $peep1$ reluctantly scouts around the area for some resources."
+peep_finds_beast,"While exploring and minding their own business, $peep1$ suddenly sees a $instr1$ right in front of them!"
+peep_get_coffee,"Feeling tired, $peep1$ decides to go to the nearby shop for a cup of $instr1$."
+peep_help_peep,"Seeing $peep1$ hanging on for dear life, $peep2$ throws a $instr1$ and slowly pulls it up."
 peep_hugs_peep,$peep1$ walks over to $peep2$ and hugs them.
-peep_hunts_animal,"Seeing small movement in front,:chases after the:in hopes of killing it.:"
+peep_hunts_animal,"Seeing small movement in front, $peep1$ chases after the $instr1$ in hopes of killing it."
 peep_injured,On the ground $peep1$ is feeling weak and lightheaded.
-peep_introduce_peep,"Meeting:friends for the first time,:introduces themselves.:"
+peep_introduce_peep,"Meeting $peep1$ friends for the first time, $peep2$ introduces themselves."
 peep_kills_peep,"$peep1$ kills $peep2$ using their $instr1$, which is now covered in blood."
 peep_kiss_peep,"In the heat of the moment, $peep1$ leans over and shares a passionate kiss with $peep2$."
-peep_make_decision,":cannot make a decision, so he flips a:to decide.:"
-peep_makes_dinner,:starts preparing for dinner for:in celebration of their achievements.:
+peep_make_decision,"$peep1$ cannot make a decision, so he flips a $instr1$ to decide."
+peep_makes_dinner,$peep1$ starts preparing dinner for $peep2$ in celebration of their achievements.
 peep_meets_peep,$peep1$ meets $peep2$ and says hello.
-peep_moves_heavy,"Seeing their friend stuck under the rock,:grabs the:and uses it to lift the rock up.:"
+peep_moves_heavy,"Seeing their friend stuck under the rock, $peep1$ grabs the $instr1$ and uses it to lift the rock up."
 peep_panicking,"Feeling desperate $peep1$ looks frantically around their surroundings, trying to look for help."
-peep_play_instr,Trying to lighten the mood:pulls out a:and plays a melodic tune.:
+peep_play_instr,"Trying to lighten the mood, $peep1$ pulls out a $instr1$ and plays a melodic tune."
 peep_pranks,$peep1$ places $instr1$ on top of the office sofa.
 peep_rejects_peep,"Confused and creeped out, $peep1$ berates $peep2$ and runs away from the scene."
-peep_saves_life,"Stunned,:runs over to:and gives them immediate medical attention.:"
-peep_slays_dragon,"With his back pressed against the wall,:takes a galiant leap and uses his:to slit the the dragon's throat.:"
-peep_sleep,"Feeling exhausted for all that they have done,:decides to take rest in the unknown bedroom.::"
+peep_saves_life,"Stunned, $peep1$ runs over to $peep2$ and gives them immediate medical attention."
+peep_slays_dragon,"With his back pressed against the wall, $peep1$ takes a galiant leap and uses his $instr1$ to slit the the dragon's throat."
+peep_sleep,"Feeling exhausted for all that they have done, $peep1$ decides to take rest in the unknown bedroom."
 peep_stabs_peep,"$peep1$, with $instr1$ in hand, manages to sneak up behind $peep2$ and stabs them!"
 peep_steals_instr,$peep1$ manages to steal $instr1$ without $peep2$ noticing.
-peep_surprise_peep,Wanting to celebrate their recent achievement:decides to surpirse:by setting up:in the park.
-peep_trains_pet,"Feeling lonely,:decides to find a:and train it to be their hunting companion.:"
+peep_surprise_peep,Wanting to celebrate their recent achievement $peep1$ decides to surpirse $peep2$ by setting up $instr1$ in the park.
+peep_trains_pet,"Feeling lonely, $peep1$ decides to find a $instr1$ and train it to be their hunting companion."
 peep_yells_at_peep,"Enraged, $peep1$ yells at $peep2$ about $instr1$. This greatly upsets $peep2$!"
-peeps_build_intr,"Curious,:and:start building a:in hopes of launching it."
+peeps_build_intr,"Curious, $peep1$ and $peep2$ start building a $instr1$ in hopes of launching it."
 peeps_go_date,$peep1$ and $peep2$ agree to go to an amusement park for a date.
 peeps_play_sport,$peep1$ and $peep2$ are playing a sport named $instr1$.
 peeps_trade_instr,$peep1$ decides to trade their $instr1$ for $peep2$'s $instr2$. $peep2$ accepts the trade.
